@@ -15,6 +15,6 @@ Humanize calculator which can turn int values and signs into words.
 ``` 
 2. From any Python3 IDE;
 
-##Pytest
+## Pytest
 
 Just run  `py.test converter.py` in terminal.
